@@ -1,0 +1,11 @@
+.nav {
+    background-color: blue;
+    color: white;
+    border: 2px dark black;
+}
+.btn {
+    color: black;
+    background-color: white;
+    border-color: black;
+    
+}
